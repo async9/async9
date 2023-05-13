@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Front-end developer (React.js / Next.js)
+- 👋 Hi, I’m a Front-end developer (React.js | Next.js | Redux | CSS | Sass| Styled Components | Headless CMS | Node.js)
 - 👀 I’m currently working @ Arounda
 
 <!---
