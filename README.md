@@ -3,7 +3,7 @@
 I’m a Web dev with the focus on Front-end
 Currently working @Arounda
 
-### 💻 I'm working with**
+### 💻 I'm working with
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
@@ -12,6 +12,7 @@ Currently working @Arounda
   <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
+
 
 ### 📫 How to reach me
 
@@ -26,6 +27,7 @@ Currently working @Arounda
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+
 
 ### ⚡ What I do 
 
