@@ -6,11 +6,13 @@ Currently working @Arounda
 ### 💻 I'm working with
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react.js&logoColor=white" alt="react.js"/>
+  <img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js"/>
+  <img src="https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
+  <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white" alt="typeScript"/>
+  <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css&logoColor=white" alt="css"/>
+  <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
+   <img src="https://img.shields.io/badge/strapi-black?style=for-the-badge&logo=strapi&logoColor=white" alt="strapi"/>
 </div>
 
 
