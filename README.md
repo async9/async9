@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I’m a Web dev with the focus on Front-end
-Currently working @Arounda
+I’m a Web dev with the focus on Front-end <br/>
+Currently working @Arounda <br/>
+Have 2+ years of experience.
 
 ### 💻 I'm working with
 
