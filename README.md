@@ -16,6 +16,9 @@ Have 2+ years of experience.
   <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
   <img src="https://img.shields.io/badge/strapi-black?style=for-the-badge&logo=strapi&logoColor=white" alt="strapi"/>
   <img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"/>
+  <img src="https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nest.js&logoColor=white" alt="nest.js"/>
+  <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender&logoColor=white" alt="blender"/>
 </div>
 
 
