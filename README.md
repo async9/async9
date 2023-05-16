@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-I’m a Web dev Currently working @Arounda
+I’m a Web dev with the focus on Front-end
+Currently working @Arounda
 
-** 💻 I'm working with**
+### 💻 I'm working with**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
@@ -25,3 +26,7 @@ I’m a Web dev Currently working @Arounda
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+
+### ⚡ What I do 
+
+As a web developer, I specialize in creating custom solutions that bring your business ideas to life. With expertise in translating design concepts from Figma to the web, I can turn your vision into a functional and visually appealing website or application that meets your specific needs.
