@@ -11,3 +11,17 @@ I’m a Web dev Currently working @Arounda
   <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
+
+### 📫 How to reach me
+
+<div display="flex">
+  <a href="https://www.linkedin.com/in/maxim-f/">
+    <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+   <a href="maxjsx9@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="maxmyst">
+    <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
