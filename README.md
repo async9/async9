@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I’m a Web dev with the focus on Front-end <br/>
-Currently working @Arounda <br/>
+I’m a Web dev with a focus on Front-end <br/>
+Currently working at Arounda <br/>
 Have 2+ years of experience.
 
 ### 💻 I'm working with
@@ -25,14 +25,12 @@ Have 2+ years of experience.
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/maxim-f/">
+  <a href="https://www.linkedin.com/in/maxim-z/">
     <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
    <a href="maxjsx9@gmail.com">
+    maxjsx9@gmail.com
     <img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="maxmyst">
-    <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
@@ -40,3 +38,5 @@ Have 2+ years of experience.
 ### ⚡ What I do 
 
 As a web developer, I specialize in creating custom solutions that bring your business ideas to life. With expertise in translating design concepts from Figma to the web, I can turn your vision into a functional and visually appealing website or application that meets your specific needs.
+
+p.s. My Github is empty because I'm very busy with work.
