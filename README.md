@@ -23,14 +23,10 @@ Have 2+ years of experience.
 
 ### 📫 How to reach me
 
-<div display="flex">
-  <a href="https://www.linkedin.com/in/maxim-z/">
-    <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="ailto:maxjsx9@gmail.com">
-    maxjsx9@gmail.com
-    <img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<div>
+  https://www.linkedin.com/in/max-z/
+  <br />
+  maxjsx9@gmail.com
 </div>
 
 
