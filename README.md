@@ -3,8 +3,9 @@
 I’m a Web dev with a focus on Front-end <br/>
 Currently working at Arounda <br/>
 Have 2+ years of experience.
+See my CV - https://read.cv/async9
 
-### 💻 I'm working with
+### 💻 My tech stack
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react.js-black?style=for-the-badge&logo=react&logoColor=white" alt="react.js"/>
