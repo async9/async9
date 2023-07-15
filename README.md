@@ -2,7 +2,7 @@
 
 I’m a Web dev with a focus on Front-end <br/>
 Currently working at Arounda <br/>
-Have 2+ years of experience.
+Have 2+ years of experience <br/>
 See my CV - https://read.cv/async9
 
 ### 💻 My tech stack
