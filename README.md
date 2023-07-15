@@ -27,7 +27,7 @@ Have 2+ years of experience.
   <a href="https://www.linkedin.com/in/maxim-z/">
     <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-   <a href="maxjsx9@gmail.com">
+  <a href="ailto:maxjsx9@gmail.com">
     maxjsx9@gmail.com
     <img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -38,4 +38,5 @@ Have 2+ years of experience.
 
 As a web developer, I specialize in creating custom solutions that bring your business ideas to life. With expertise in translating design concepts from Figma to the web, I can turn your vision into a functional and visually appealing website or application that meets your specific needs.
 
-p.s. My Github is empty because I'm very busy with work.
+p.s.
+My Github is empty simply because I'm very busy with work and learning new things after.
