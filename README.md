@@ -17,7 +17,6 @@ See my CV - https://read.cv/async9
   <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
   <img src="https://img.shields.io/badge/strapi-black?style=for-the-badge&logo=strapi&logoColor=white" alt="strapi"/>
   <img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"/>
-  <img src="https://img.shields.io/badge/nest.js-black?style=for-the-badge&logo=nest.js&logoColor=white" alt="nest.js"/>
   <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 </div>
 
@@ -35,5 +34,4 @@ See my CV - https://read.cv/async9
 
 As a web developer, I specialize in creating custom solutions that bring your business ideas to life. With expertise in translating design concepts from Figma to the web, I can turn your vision into a functional and visually appealing website or application that meets your specific needs.
 
-p.s.
 My Github is empty simply because I'm very busy with work and learning new things after.
