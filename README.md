@@ -33,6 +33,3 @@ See my CV - https://read.cv/async9
 ### ⚡ What I do 
 
 As a web developer, I specialize in creating custom solutions that bring your business ideas to life. With expertise in translating design concepts from Figma to the web, I can turn your vision into a functional and visually appealing website or application that meets your specific needs.
-
-My Github is empty simply because I'm very busy with work and learning new things after.
-Old repositories were deleted, because they didn't represent my current skills.
