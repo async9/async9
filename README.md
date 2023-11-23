@@ -32,3 +32,10 @@ See my CV - https://read.cv/async9
 ### ⚡ What I do 
 
 As a web developer, I specialize in creating custom solutions that bring your business ideas to life. With expertise in translating design concepts from Figma to the web, I can turn your vision into a functional and visually appealing website or application that meets your specific needs.
+<br />
+
+  
+### 🖼️ My artworks I did as a hobby
+<div>
+  https://www.artstation.com/async99
+</div>
