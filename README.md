@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-I’m a Web dev with a focus on Front-end <br/>
-Currently working as Front-end Engineer at Crypto company (NDA) <br/>
-Have 3+ years of experience <br/>
+I’m a Front-end Engineer at Arounda <br/>
+Have 3 years of experience <br/>
 See my CV - https://read.cv/async9
 
 ### 💻 Tech stack
