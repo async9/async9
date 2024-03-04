@@ -23,9 +23,9 @@ See my CV - https://read.cv/async9
 ### 📫 How to reach me
 
 <div>
-  https://www.linkedin.com/in/max-z
+  maximzavatyi@gmail.com
   <br />
-  maxjsx9@gmail.com
+  https://www.linkedin.com/in/max-z
 </div>
 
 
