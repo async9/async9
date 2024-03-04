@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I’m a Front-end Engineer at Arounda <br/>
-Have 3 years of experience <br/>
+Have 3+ years of experience <br/>
 See my CV - https://read.cv/async9
 
 ### 💻 Tech stack
