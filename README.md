@@ -23,7 +23,7 @@ My CV: https://read.cv/async9
 ### 📫 How to reach me
 
 <div>
-  maximzavatyi@gmail.com
+  max.zavati@gmail.com
   <br />
   https://www.linkedin.com/in/max-z
 </div>
