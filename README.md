@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a Front-end Engineer at Arounda <br/>
+I’m a Front-end Developer at Arounda <br/>
 Have 3+ years of experience <br/>
 My CV: https://read.cv/async9
 
